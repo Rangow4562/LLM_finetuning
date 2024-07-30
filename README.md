@@ -43,7 +43,4 @@ You'll learn:
 - 📊 Master the art of data preparation for successful model adaptation.
 - 🚀 Train and evaluate LLMs to achieve impressive results.
 
-## About the Instructor
-🌟**Sharon Zhou** is the Co-Founder and CEO of Lamini. With a wealth of experience in NLP and AI, Sharon is a renowned expert in the field.
 
-🔗 Reference: "Finetuning Large Language Models" course. To enroll in the course or for further information, visit [deeplearning.ai](https://www.deeplearning.ai).
